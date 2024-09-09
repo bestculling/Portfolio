@@ -37,7 +37,7 @@ const projects = [
     title: "ShopTouch",
     description: "This is a full-stack e-commerce platform built using Next.js for the frontend, Tailwind CSS for styling, and MongoDB for the database. It provides a seamless shopping experience with features for browsing products, managing a shopping cart, and processing orders.",
     links: {
-      github: "#",
+      github: "https://github.com/bestculling/ShopTouch-Web-Application",
     },
   },
   {
@@ -45,7 +45,7 @@ const projects = [
     title: "Traveling Assitence",
     description: "Traveling assistance application that allows users to browse tourist attractions in Thailand with dynamic features such as option filters by using React and JSON.",
     links: {
-      github: "#",
+      github: "https://github.com/bestculling/Traveling-Assitence",
     },
   },
   {
@@ -53,7 +53,7 @@ const projects = [
     title: "Responsive education website",
     description: "A data visualization project using D3.js and other libraries.",
     links: {
-      github: "#",
+      github: "https://github.com/bestculling/react-education-web",
     },
   },
 ]
